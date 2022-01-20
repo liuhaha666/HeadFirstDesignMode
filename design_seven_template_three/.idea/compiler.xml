@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="design_second" />
+        <module name="design_seven_template_three" />
+        <module name="design_seven_template" />
+        <module name="design_third_decorator" />
+        <module name="design_fourth_factory_one" />
+        <module name="design_seven_template_two" />
+        <module name="design_sixth_adaptor_itrorator" />
+        <module name="design_third_decorator_withsize" />
+        <module name="mavenhiworld" />
+        <module name="design_fifth_command_two" />
+        <module name="design_sixth_adaptor" />
+        <module name="design_fifth_command_one" />
+        <module name="design_sixth_facade" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
