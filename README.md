@@ -25,8 +25,14 @@
 组合模式允许将对象组合成树形结构来表现“整体/部分”层次结构。组合能让客户以一致的方式处理个别对象以及对象组合。
 
 10.第十章，代理模式
+
 design_ten_proxy_rumen_zero对应代码proxy--参考https://www.cnblogs.com/adamjwh/p/9102037.html
+
 design_ten_proxy_rumen_one对应代码GamePlayerProxy--参考https://www.cnblogs.com/adamjwh/p/9102037.html
+
 design_ten_proxy_one对应代码MatchMakingTestDrive--参考书中代码
+
 design_ten_rumen_dynamicproxy对应代码dynamicproxy--参考https://www.cnblogs.com/adamjwh/p/10907526.html
+
 design_ten_rumen_staticproxy对应代码GamePlayer--参考https://www.cnblogs.com/adamjwh/p/10907526.html
+
