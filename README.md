@@ -36,3 +36,5 @@ design_ten_rumen_dynamicproxy对应代码dynamicproxy--参考https://www.cnblogs
 
 design_ten_rumen_staticproxy对应代码GamePlayer--参考https://www.cnblogs.com/adamjwh/p/10907526.html
 
+design_ten_rumen_reflection_one对应代码反射example one --参考https://www.cnblogs.com/adamjwh/p/9683705.html
+design_ten_rumen_reflection_two对应代码反射example two --参考https://www.cnblogs.com/adamjwh/p/9683705.html
