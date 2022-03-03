@@ -17,13 +17,13 @@ public class commandthree {
         remoteControl.onButtonWasPushed(0);
         remoteControl.offButtonWasPushed(0);
         System.out.println("===test===");
-        System.out.println(remoteControl.undoCommand);
-        System.out.println(remoteControl);
+        //System.out.println(remoteControl.undoCommand);
+        //System.out.println(remoteControl);
         remoteControl.undoButtonWasPushed();
-        remoteControl.offButtonWasPushed(0);
-        remoteControl.onButtonWasPushed(0);
+        //remoteControl.offButtonWasPushed(0);
+        //remoteControl.onButtonWasPushed(0);
         System.out.println(remoteControl);
-        remoteControl.undoButtonWasPushed();
+        //remoteControl.undoButtonWasPushed();
 
 //        CeilingFan ceilingFan = new CeilingFan("Living Room");
 //

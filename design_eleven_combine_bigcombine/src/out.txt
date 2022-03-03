@@ -1,0 +1,301 @@
+类名	：javax.swing.AbstractButtonBeanInfo属性名	：classAbstractButton
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.AbstractButtonBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.AbstractButtonBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.AbstractButtonBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.BoxBeanInfo属性名	：classBox
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.BoxBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.BoxBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.BoxBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JAppletBeanInfo属性名	：classJApplet
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JAppletBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JAppletBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JAppletBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JButtonBeanInfo属性名	：classJButton
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JButtonBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JButtonBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JButtonBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JCheckBoxBeanInfo属性名	：classJCheckBox
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JCheckBoxBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JCheckBoxBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JCheckBoxBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JCheckBoxMenuItemBeanInfo属性名	：classJCheckBoxMenuItem
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JCheckBoxMenuItemBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JCheckBoxMenuItemBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JCheckBoxMenuItemBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JColorChooserBeanInfo属性名	：classJColorChooser
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JColorChooserBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JColorChooserBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JColorChooserBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JComboBoxBeanInfo属性名	：classJComboBox
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JComboBoxBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JComboBoxBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JComboBoxBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JComponentBeanInfo属性名	：classJComponent
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JComponentBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JComponentBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JComponentBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JDesktopPaneBeanInfo属性名	：classJDesktopPane
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JDesktopPaneBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JDesktopPaneBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JDesktopPaneBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JDialogBeanInfo属性名	：classJDialog
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JDialogBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JDialogBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JDialogBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JEditorPaneBeanInfo属性名	：classJEditorPane
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JEditorPaneBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JEditorPaneBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JEditorPaneBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JFileChooserBeanInfo属性名	：classJFileChooser
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JFileChooserBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JFileChooserBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JFileChooserBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JFormattedTextFieldBeanInfo属性名	：classJFormattedTextField
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JFormattedTextFieldBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JFormattedTextFieldBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JFormattedTextFieldBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JFrameBeanInfo属性名	：classJFrame
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JFrameBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JFrameBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JFrameBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JInternalFrameBeanInfo属性名	：classJInternalFrame
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JInternalFrameBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JInternalFrameBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JInternalFrameBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JLabelBeanInfo属性名	：classJLabel
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JLabelBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JLabelBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JLabelBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JLayeredPaneBeanInfo属性名	：classJLayeredPane
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JLayeredPaneBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JLayeredPaneBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JLayeredPaneBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JListBeanInfo属性名	：classJList
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JListBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JListBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JListBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JMenuBarBeanInfo属性名	：classJMenuBar
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JMenuBarBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JMenuBarBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JMenuBarBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JMenuBeanInfo属性名	：classJMenu
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JMenuBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JMenuBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JMenuBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JMenuItemBeanInfo属性名	：classJMenuItem
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JMenuItemBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JMenuItemBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JMenuItemBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JOptionPaneBeanInfo属性名	：classJOptionPane
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JOptionPaneBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JOptionPaneBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JOptionPaneBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JPanelBeanInfo属性名	：classJPanel
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JPanelBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JPanelBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JPanelBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JPasswordFieldBeanInfo属性名	：classJPasswordField
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JPasswordFieldBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JPasswordFieldBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JPasswordFieldBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JPopupMenuBeanInfo属性名	：classJPopupMenu
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JPopupMenuBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JPopupMenuBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JPopupMenuBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JProgressBarBeanInfo属性名	：classJProgressBar
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JProgressBarBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JProgressBarBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JProgressBarBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JRadioButtonBeanInfo属性名	：classJRadioButton
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JRadioButtonBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JRadioButtonBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JRadioButtonBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JRadioButtonMenuItemBeanInfo属性名	：classJRadioButtonMenuItem
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JRadioButtonMenuItemBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JRadioButtonMenuItemBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JRadioButtonMenuItemBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JScrollBarBeanInfo属性名	：classJScrollBar
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JScrollBarBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JScrollBarBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JScrollBarBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JScrollPaneBeanInfo属性名	：classJScrollPane
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JScrollPaneBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JScrollPaneBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JScrollPaneBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JSeparatorBeanInfo属性名	：classJSeparator
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JSeparatorBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JSeparatorBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JSeparatorBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JSliderBeanInfo属性名	：classJSlider
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JSliderBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JSliderBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JSliderBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JSpinnerBeanInfo属性名	：classJSpinner
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JSpinnerBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JSpinnerBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JSpinnerBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JSplitPaneBeanInfo属性名	：classJSplitPane
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JSplitPaneBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JSplitPaneBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JSplitPaneBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JTabbedPaneBeanInfo属性名	：classJTabbedPane
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JTabbedPaneBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JTabbedPaneBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JTabbedPaneBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JTableBeanInfo属性名	：classJTable
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JTableBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JTableBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JTableBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JTextAreaBeanInfo属性名	：classJTextArea
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JTextAreaBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JTextAreaBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JTextAreaBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JTextFieldBeanInfo属性名	：classJTextField
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JTextFieldBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JTextFieldBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JTextFieldBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JTextPaneBeanInfo属性名	：classJTextPane
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JTextPaneBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JTextPaneBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JTextPaneBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JToggleButtonBeanInfo属性名	：classJToggleButton
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JToggleButtonBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JToggleButtonBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JToggleButtonBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JToolBarBeanInfo属性名	：classJToolBar
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JToolBarBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JToolBarBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JToolBarBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JTreeBeanInfo属性名	：classJTree
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JTreeBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JTreeBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JTreeBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.JWindowBeanInfo属性名	：classJWindow
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.JWindowBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.JWindowBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.JWindowBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.text.JTextComponentBeanInfo属性名	：classJTextComponent
+-属性类型	：class java.lang.Class
+方法名	：javax.swing.text.JTextComponentBeanInfo.getBeanDescriptor()
+方法名	：javax.swing.text.JTextComponentBeanInfo.getPropertyDescriptors()
+方法名	：javax.swing.text.JTextComponentBeanInfo.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：javax.swing.SwingBeanInfoBase方法名	：javax.swing.SwingBeanInfoBase.getDefaultPropertyIndex()
+方法名	：javax.swing.SwingBeanInfoBase.getAdditionalBeanInfo()
+方法名	：javax.swing.SwingBeanInfoBase.getIcon(int)
+--------------------------------------------------------------------------------
+类名	：sun.swing.BeanInfoUtils属性名	：BOUND
+-属性类型	：class java.lang.String
+属性名	：CONSTRAINED
+-属性类型	：class java.lang.String
+属性名	：PROPERTYEDITORCLASS
+-属性类型	：class java.lang.String
+属性名	：READMETHOD
+-属性类型	：class java.lang.String
+属性名	：WRITEMETHOD
+-属性类型	：class java.lang.String
+属性名	：DISPLAYNAME
+-属性类型	：class java.lang.String
+属性名	：EXPERT
+-属性类型	：class java.lang.String
+属性名	：HIDDEN
+-属性类型	：class java.lang.String
+属性名	：PREFERRED
+-属性类型	：class java.lang.String
+属性名	：SHORTDESCRIPTION
+-属性类型	：class java.lang.String
+属性名	：CUSTOMIZERCLASS
+-属性类型	：class java.lang.String
+方法名	：sun.swing.BeanInfoUtils.createPropertyDescriptor(java.lang.Class,java.lang.String,java.lang.Object[])
+方法名	：sun.swing.BeanInfoUtils.createBeanDescriptor(java.lang.Class,java.lang.Object[])
+方法名	：sun.swing.BeanInfoUtils.throwError(java.lang.Exception,java.lang.String)
+--------------------------------------------------------------------------------
+End
