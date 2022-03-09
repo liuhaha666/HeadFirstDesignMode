@@ -24,7 +24,9 @@
 
 组合模式允许将对象组合成树形结构来表现“整体/部分”层次结构。组合能让客户以一致的方式处理个别对象以及对象组合。
 
-10.第十章，代理模式
+10.第十章，代理模式  
+
+代码顺序
 
 design_ten_proxy_rumen_zero对应代码proxy--参考https://www.cnblogs.com/adamjwh/p/9102037.html
 
